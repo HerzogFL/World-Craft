@@ -20,14 +20,14 @@ $^4$ Fudan University &nbsp; $^5$ Wuhan University &nbsp; $^6$ USTC &nbsp; $^7$ 
 <table>
 <tr>
 <td align="center">
-<img src="./assets/teaser.png" width="400px" alt="Teaser Image">
-<b>Generated World View</b>
-</td>
-<td align="center">
-<video src="./assets/demo.mp4" width="400px" controls></video>
-<!-- Alternatively, use a GIF or Link for GitHub compatibility:
- -->
-<b>Agent Simulation Demo</b>
+<!-- GitHub does not support the video tag. Using a clickable image link instead. -->
+<a href="./assets/demo.mp4" target="_blank">
+<!-- Ideally, replace 'teaser.png' below with a specific thumbnail or a GIF of your video -->
+<img src="./assets/teaser.png" width="400px" alt="Watch the Demo Video">
+</a>
+
+<b>Agent Simulation Demo (Click to Watch)</b>
+
 </td>
 </tr>
 </table>
