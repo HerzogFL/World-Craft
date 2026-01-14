@@ -16,15 +16,25 @@ $^4$ Fudan University &nbsp; $^5$ Wuhan University &nbsp; $^6$ USTC &nbsp; $^7$ 
 </small>
 
 </div>
+
+<!-- Teaser Section -->
+
 <div align="center">
-<table>
-<tr>
-<td align="center">
 <img src="./assets/teaser.png" width="300px" alt="Teaser Image">
 
 <b>Generated World View</b>
-</tr>
-</table>
+
+</div>
+
+<!-- Video Link Section -->
+
+<div align="center">
+<a href="./assets/demo.mp4">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/▶_Click_to_Watch-Demo_Video-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video">
+</a>
+
+<b>Agent Simulation Demo</b>
+
 </div>
 
 World Craft is an agentic world creation framework designed to democratize the creation of executable and visualizable AI simulations (e.g., AI Town). By leveraging Large Language Models (LLMs), World Craft allows users to create complex, dynamic game scenes simply through textual descriptions, without requiring any programming expertise.
