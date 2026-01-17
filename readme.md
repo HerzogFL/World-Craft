@@ -29,13 +29,13 @@ $^4$ Fudan University &nbsp; $^5$ Wuhan University &nbsp; $^6$ USTC &nbsp; $^7$ 
 <!-- Video Link Section -->
 
 <div align="center">
-<a href="./assets/demo.mp4">
-<img src="https://youtu.be/o8Kpgj81D-c" alt="Watch Demo Video">
-</a>
-
-<b>Agent Simulation Demo</b>
-
+  <a href="https://youtu.be/o8Kpgj81D-c">
+    <img src="https://img.youtube.com/vi/o8Kpgj81D-c/maxresdefault.jpg" width="600px" alt="Watch Demo Video">
+  </a>
+  <br>
+  <b>🎥 Click to Watch: Agent Simulation Demo</b>
 </div>
+
 
 World Craft is an agentic world creation framework designed to democratize the creation of executable and visualizable AI simulations (e.g., AI Town). By leveraging Large Language Models (LLMs), World Craft allows users to create complex, dynamic game scenes simply through textual descriptions, without requiring any programming expertise.
 
