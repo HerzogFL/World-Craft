@@ -20,7 +20,7 @@ $^4$ Fudan University &nbsp; $^5$ Wuhan University &nbsp; $^6$ USTC &nbsp; $^7$ 
 <!-- Teaser Section -->
 
 <div align="center">
-<img src="./assets/teaser.png" width="300px" alt="Teaser Image">
+<img src="./assets/teaser.png" width="500px" alt="Teaser Image">
 
 <b>Generated World View</b>
 
@@ -57,14 +57,36 @@ Large Language Models (LLMs) have opened new possibilities for generative agent 
 </table>
 </div>
 
-## 🚀 Quick Start
 
-    coming soon
+## 🎨 Assets & Acknowledgments
+The visual assets (tile sets and objects) demonstrated in World Craft are primarily sourced from the Modern Series created by the talented pixel artist LimeZu on itch.io.
+
+License & Usage: We utilize these assets under the Complete Version License (Commercial/Non-commercial use permitted). We strictly adhere to the original license terms:
+
+✅ Permitted: Using and editing assets for the project.
+
+🚫 Prohibited: Reselling or redistributing the raw assets.
+
+A Special Note: We extend our sincere gratitude to LimeZu for providing such high-quality and consistent artistic resources to the community. The "Modern" series provides an excellent foundation for AI simulation environments.
+
+We strongly encourage all users and researchers to visit LimeZu's page and purchase/support their work. Your support helps sustain the creation of amazing open-source game assets.
+
+📢 Coming Soon: We plan to open-source the data processing scripts and annotation code that we developed based on this asset library, helping researchers easily integrate these high-quality assets into their own AI pipelines.
+
+
 
 ## 📝 Citation
 If you find this project useful in your research, please consider citing:
 
-
+    @misc{sun2026worldcraftagenticframework,
+        title={World Craft: Agentic Framework to Create Visualizable Worlds via Text}, 
+        author={Jianwen Sun and Yukang Feng and Kaining Ying and Chuanhao Li and Zizhen Li and Fanrui Zhang and Jiaxin Ai and Yifan Chang and Yu Dai and Yifei Huang and Kaipeng Zhang},
+        year={2026},
+        eprint={2601.09150},
+        archivePrefix={arXiv},
+        primaryClass={cs.HC},
+        url={https://arxiv.org/abs/2601.09150}, 
+    }
 
 ## 👥 Authors & Affiliations
 
