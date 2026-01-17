@@ -30,7 +30,7 @@ $^4$ Fudan University &nbsp; $^5$ Wuhan University &nbsp; $^6$ USTC &nbsp; $^7$ 
 
 <div align="center">
 <a href="./assets/demo.mp4">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/▶_Click_to_Watch-Demo_Video-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video">
+<img src="https://youtu.be/o8Kpgj81D-c" alt="Watch Demo Video">
 </a>
 
 <b>Agent Simulation Demo</b>
