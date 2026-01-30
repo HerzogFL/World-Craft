@@ -12,7 +12,7 @@
 <br>
 <small>
 
-$^1$ Shanda AI Research, Tokyo &nbsp; $^2$ Shanghai Innovation Institute &nbsp; $^3$ Nankai University 
+$^1$ Shanda AI Research,  &nbsp; $^2$ Shanghai Innovation Institute &nbsp; $^3$ Nankai University 
 
 $^4$ Fudan University &nbsp; $^5$ Wuhan University &nbsp; $^6$ USTC &nbsp; $^7$ Shanghai AI Laboratory
 </small>
